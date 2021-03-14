@@ -9,10 +9,12 @@ No trabalho, foi apresentada uma proposta de manobras orbitais a partir do model
 
 A partir de 300 km de altitude, a transferência até 120 km foi realizada desacelerando o veículo por 22 s, obtidos pela Eq. (3.5), (primeiro “thrust”), em seguida, o veículo se propaga pelo período P sem a desaceleração. Logo após, uma segunda desaceleração por 22 s é aplicada para circularizar a órbita final 
 
-<fig>
+
+<img src="https://raw.githubusercontent.com/limadlp/OrbitalDynamics/main/orbital01.png" height="300">
 Gráfico da altitude do veículo em função do tempo na órbita inicial circular a qual permanece constante e em seguida decai gradativamente até o veículo atingir 120 km de altitude.
 
- Observa-se que na Figura que a órbita final é uma órbita elíptica com excentricidade 0.00042566, isto é muito próxima de circularizar. Isto garante um bom resultado no processo de transferências não-impulsivas, visto que se obtém um  maior controle no decaimento orbital de veículos espaciais, culminando evidentemente, na escolha da localização do posicionamento no espaço para reentrada atmosférica. 
+<p></p>
+Observa-se que na Figura que a órbita final é uma órbita elíptica com excentricidade 0.00042566, isto é muito próxima de circularizar. Isto garante um bom resultado no processo de transferências não-impulsivas, visto que se obtém um  maior controle no decaimento orbital de veículos espaciais, culminando evidentemente, na escolha da localização do posicionamento no espaço para reentrada atmosférica. 
 
-<fig>
+<img src="https://raw.githubusercontent.com/limadlp/OrbitalDynamics/main/orbital02.png" height="300">
  Visão plana da órbita circular inicial (vermelho), decaimento (azul) e Terra (verde).
