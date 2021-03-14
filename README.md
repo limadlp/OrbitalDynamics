@@ -12,10 +12,10 @@ A partir de 300 km de altitude, a transferência até 120 km foi realizada desac
 
 
 <img src="https://raw.githubusercontent.com/limadlp/OrbitalDynamics/main/orbital01.png" height="300">
-_Gráfico da altitude do veículo em função do tempo na órbita inicial circular a qual permanece constante e em seguida decai gradativamente até o veículo atingir 120 km de altitude._
+Gráfico da altitude do veículo em função do tempo na órbita inicial circular a qual permanece constante e em seguida decai gradativamente até o veículo atingir 120 km de altitude.
 
 <p></p>
 Observa-se que na Figura que a órbita final é uma órbita elíptica com excentricidade 0.00042566, isto é muito próxima de circularizar. Isto garante um bom resultado no processo de transferências não-impulsivas, visto que se obtém um  maior controle no decaimento orbital de veículos espaciais, culminando evidentemente, na escolha da localização do posicionamento no espaço para reentrada atmosférica. 
 
 <img src="https://raw.githubusercontent.com/limadlp/OrbitalDynamics/main/orbital02.png" height="300">
-_Visão plana da órbita circular inicial (vermelho), decaimento (azul) e Terra (verde)._
+Visão plana da órbita circular inicial (vermelho), decaimento (azul) e Terra (verde).
